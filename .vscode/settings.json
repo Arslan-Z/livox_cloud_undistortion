@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/zcy/dev/aesv_ws/devel/lib/python3/dist-packages",
+        "/home/zcy/env/dev_libs/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/zcy/dev/aesv_ws/devel/include/**",
+        "/home/zcy/env/dev_libs/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/zcy/env/dev_libs/src/common_lib/include/**",
+        "/home/zcy/env/dev_libs/src/eigen_checks/include/**",
+        "/home/zcy/dev/aesv_ws/src/fast_gicp/include/**",
+        "/home/zcy/dev/aesv_ws/src/hdl_global_localization/include/**",
+        "/home/zcy/dev/aesv_ws/src/hdl_localization/include/**",
+        "/home/zcy/dev/aesv_ws/src/image_undistort/include/**",
+        "/home/zcy/dev/aesv_ws/src/lidar_cam_projection/include/**",
+        "/home/zcy/dev/aesv_ws/src/lidar_undistortion/lidar_undistortion/include/**",
+        "/home/zcy/dev/aesv_ws/src/livox_cloud_undistortion/include/**",
+        "/home/zcy/env/dev_libs/src/minkindr/minkindr/include/**",
+        "/home/zcy/env/dev_libs/src/minkindr_ros/minkindr_conversions/include/**",
+        "/home/zcy/dev/aesv_ws/src/ndt_omp/include/**",
+        "/home/zcy/env/dev_libs/src/numpy_eigen/include/**",
+        "/home/zcy/env/dev_libs/src/pcl_catkin/perception_pcl/pcl_conversions/include/**",
+        "/home/zcy/env/dev_libs/src/pcl_catkin/perception_pcl/pcl_ros/include/**",
+        "/home/zcy/dev/aesv_ws/src/point_cloud_recorder/include/**",
+        "/home/zcy/env/dev_libs/src/pointmatcher-ros/include/**",
+        "/home/zcy/env/dev_libs/src/rosfmt/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_boost/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_common/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_deprecation/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_eigen/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_kinematics/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_logging/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_matlab/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_matrix_archive/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_opencv/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_property_tree/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_python/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_random/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_timing/include/**",
+        "/home/zcy/env/dev_libs/src/schweizer_messer/sm_value_store/include/**",
+        "/home/zcy/env/dev_libs/src/pcl_catkin/geometry2/tf2/include/**",
+        "/home/zcy/env/dev_libs/src/pcl_catkin/geometry2/tf2_bullet/include/**",
+        "/home/zcy/env/dev_libs/src/pcl_catkin/geometry2/tf2_eigen/include/**",
+        "/home/zcy/env/dev_libs/src/pcl_catkin/geometry2/tf2_geometry_msgs/include/**",
+        "/home/zcy/env/dev_libs/src/pcl_catkin/geometry2/tf2_kdl/include/**",
+        "/home/zcy/env/dev_libs/src/pcl_catkin/geometry2/tf2_msgs/include/**",
+        "/home/zcy/env/dev_libs/src/pcl_catkin/geometry2/tf2_ros/include/**",
+        "/home/zcy/env/dev_libs/src/pcl_catkin/geometry2/tf2_sensor_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
